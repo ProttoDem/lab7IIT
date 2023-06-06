@@ -2,7 +2,7 @@ import telebot
 import datetime
 import fluent.sender
 
-bot_token = '6036098503:AAHUk0XuznNMgiG5Luk2b4G7iLFh2iUlvJE'
+bot_token = 'token'
 
 fluentd_host = '127.0.0.1'
 fluentd_port = 24224
